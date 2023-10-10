@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m FahadMurtaza<br>🔭 I’m currently working on developing a web app<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about anything<br>⚡ No Fun fact
+👋 Hi, I’m Fahad Murtaza<br>🔭 I’m currently working on JukeBox<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about anything<br>⚡ No Fun fact
 
 
 # 💻 Tech Stack:
