@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![xerop79int's Stats](https://github-readme-stats.vercel.app/api?username=xerop79int&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xerop79int&hide=css,java,html&theme=tokyonight)
+![xerop79int's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xerop79int&theme=vue-dark&hide_border=true)
 
 
 ---
