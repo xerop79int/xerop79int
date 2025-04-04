@@ -8,7 +8,8 @@
 <h2 align="left">Github stats</h2>
 <p align="left">
   <a href="https://github.com/tufalpha1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vendattaRG&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>     
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vendattaRG&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vendattarg&langs_count=10&theme=vue-dark"/>
   </a>
 </p>
